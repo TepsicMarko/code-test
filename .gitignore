@@ -1,0 +1,4 @@
+code-test-react/node_modules
+.env
+npm-debug.log*
+
